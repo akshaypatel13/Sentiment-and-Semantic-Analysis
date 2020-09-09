@@ -1,0 +1,13 @@
+university 1578
+canada 283
+graduate 22
+education 1871
+faculty 80
+expensive 5
+dalhousie 2
+Positive Remarks Tweets 0
+Negative Remarks Tweets 0
+Computer Science Tweets 4
+Positive Remarks 0
+Negative Remarks 0
+Computer Science 1

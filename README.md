@@ -5,7 +5,7 @@ The content management system that performs analysis to identify Key Performance
 
 ## Highlights
 
-* Data cleaning
+* Data Cleaning
 * Data Visualization
 * AWS EC2 - Data Processing and Spark Setup
 * PyMongo 
